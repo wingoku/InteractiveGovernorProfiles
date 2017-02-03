@@ -1,0 +1,26 @@
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/go_hispeed_load 99
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/above_hispeed_delay 30000 600000:20000 672000:10000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_rate 20000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/hispeed_freq 768000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/timer_slack 30000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/target_loads 76 460000:69 600000:80 672000:79 768000:80 864000:81 960000:70 1248000:84 1344000:82 1478000:86
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/min_sample_time 40000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/boost 0
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/align_windows 0
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/use_migration_notif 1
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/use_sched_load 0
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/max_freq_hysteresis 40000
+/sys/devices/system/cpu/cpu0/cpufreq/interactive/boostpulse_duration 40000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/go_hispeed_load 100
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/above_hispeed_delay 19000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_rate 20000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/hispeed_freq 1248000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/timer_slack 30000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/target_loads 72 633000:74 768000:80 864000:81 960000:74 1248000:84 1344000:84 1440000:84 1536000:85 1632000:85 1728000:85 1824000:84
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/min_sample_time 60000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/boost 0
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/align_windows 0
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/use_migration_notif 1
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/use_sched_load 0
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/max_freq_hysteresis 30000
+/sys/devices/system/cpu/cpu4/cpufreq/interactive/boostpulse_duration 40000
